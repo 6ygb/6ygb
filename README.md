@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 6ygb 👋
+<a href="https://6ygb.dev/">6ygb.dev</a>
 <!--
 **6ygb/6ygb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
